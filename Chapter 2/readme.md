@@ -1,6 +1,6 @@
 # Variable and Data Types
 
-### Sequence of code is listed below
+### Sequence of code file is listed below
  1. Variables
  2. Initialization
  3. Final
